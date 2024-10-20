@@ -1,4 +1,4 @@
-LOCUS       Kwale_303             160061 bp    DNA     circular     15-October-2024
+LOCUS       Kwale_303             160061 bp    DNA     circular     30-October-2024
 DEFINITION  Adansonia digitata chloroplast.
 ACCESSION   Kwale_303
 VERSION     Kwale_303.01

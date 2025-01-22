@@ -1,0 +1,340 @@
+Sample_ID,Tissue,ABR,PVP,Temp,Concentration (ng/µL),A260 (Abs),A280 (Abs),Purity (260/A280),Purity (260/A230),Diluent volume,Est.Qty,OD1,OD2
+BL1,Cotyledon leaf,CTL,NEG,Warm,151.9,3.038,1.558,1.95,1.34,80,12152,GQ,LQ
+BL2,Cotyledon leaf,CTL,NEG,Warm,139.4,2.787,1.423,1.96,1.68,80,11152,GQ,LQ
+SA1,Cotyledon leaf,CTL,NEG,Warm,310.3,6.206,3.293,1.88,1.29,80,24824,GQ,LQ
+1,Cotyledon leaf,CTL,NEG,Warm,106.3,2.127,1.2,1.77,1.25,65,6909.5,LQ,LQ
+2,Cotyledon leaf,CTL,NEG,Warm,86.1,1.721,0.95,1.81,1.01,65,5596.5,GQ,LQ
+3,Cotyledon leaf,CTL,NEG,Warm,58.1,1.161,0.617,1.88,0.95,65,3776.5,GQ,LQ
+4,Cotyledon leaf,CTL,NEG,Warm,56.5,1.13,0.619,1.82,1.2,65,3672.5,GQ,LQ
+5,Cotyledon leaf,CTL,NEG,Warm,110.8,2.215,1.209,1.83,1.15,65,7202,GQ,LQ
+6,Cotyledon leaf,CTL,NEG,Warm,46,0.921,0.484,1.9,1.05,65,2990,GQ,LQ
+7,Cotyledon leaf,CTL,NEG,Warm,60.7,1.215,0.657,1.85,1.19,65,3945.5,GQ,LQ
+8,Cotyledon leaf,CTL,NEG,Warm,122.1,2.442,1.297,1.88,1.28,65,7936.5,GQ,LQ
+9,Cotyledon leaf,CTL,NEG,Warm,97.6,1.952,1.038,1.88,1.17,65,6344,GQ,LQ
+10,Cotyledon leaf,CTL,NEG,Warm,171.4,3.429,1.906,1.8,1.21,65,11141,GQ,LQ
+11,Cotyledon leaf,CTL,NEG,Warm,50.1,1.002,0.55,1.82,1.52,65,3256.5,GQ,LQ
+12,Cotyledon leaf,CTL,NEG,Warm,84.1,1.682,0.904,1.86,1.09,65,5466.5,GQ,LQ
+13L,Cotyledon leaf,CTL,NEG,Warm,116.4,2.328,1.253,1.86,1.22,65,7566,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,157.6,1.311,1.016,1.81,1.68,65,10244,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,123.9,4.322,1.818,1.82,1.98,65,8053.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,204.3,2.73,1.526,1.8,1.87,65,13279.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,122.9,4.26,1.132,1.8,1.93,65,7988.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,196.6,1.321,2.261,1.81,1.97,65,12779,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,167,1.791,1.02,1.8,2.01,65,10855,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,136.5,3.521,0.964,1.82,2.12,65,8872.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,152.7,3.012,1.71,1.8,2.01,65,9925.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,134.9,2.078,0.483,1.82,2,65,8768.5,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,164.2,4.487,1.307,1.81,1.86,65,10673,GQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,143.4,2.867,1.486,1.93,1.47,65,9321,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,116.6,2.332,1.19,1.96,1.79,65,7579,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,47.2,0.943,0.536,1.76,1.06,65,3068,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,47.4,0.947,0.483,1.96,1.71,65,3081,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,115.5,2.311,1.307,1.77,1.16,65,7507.5,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,266.1,5.322,3.015,1.77,1.19,65,17296.5,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,135.1,2.702,1.425,1.9,1.52,65,8781.5,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,210.2,4.203,2.259,1.86,1.19,65,13663,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,66,1.321,0.657,2.01,1.74,65,4290,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,89.6,1.791,1.016,1.76,0.9,65,5824,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,176,3.521,1.818,1.94,1.31,65,11440,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,150.6,3.012,1.526,1.97,1.38,65,9789,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,103.9,2.078,1.132,1.84,1.3,65,6753.5,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,224.3,4.487,2.261,1.98,1.68,65,14579.5,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,102.9,2.058,1.02,2.02,1.78,65,6688.5,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,96.6,1.933,0.964,2,1.76,65,6279,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,165,3.299,1.71,1.93,1.39,65,10725,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,126.5,2.53,1.236,2.05,1.81,65,8222.5,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,142.7,2.855,1.525,1.87,1.31,65,9275.5,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,114.9,2.299,1.303,1.76,1,65,7468.5,LQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,134.2,2.685,1.316,2.04,1.93,65,8723,LQ,GQ
+13,Cotyledon leaf,CTL,NEG,Warm,129.2,2.585,1.327,1.95,1.11,65,8398,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,77.9,1.557,0.779,2,1.21,65,5063.5,GQ,LQ
+13,Cotyledon leaf,CTL,NEG,Warm,173.4,3.468,1.756,1.98,1.63,65,11271,GQ,LQ
+1C,Cotyledon leaf,CTL,NEG,Cold,134.6,2.693,1.335,2.02,1.96,60,8076,LQ,GQ
+2C,Cotyledon leaf,CTL,NEG,Cold,199.9,3.998,1.995,2,1.82,60,11994,GQ,LQ
+3C,Cotyledon leaf,CTL,NEG,Cold,137.2,2.744,1.418,1.94,1.8,60,8232,GQ,LQ
+5C,Cotyledon leaf,CTL,NEG,Cold,157.5,3.15,1.678,1.88,1.41,60,9450,GQ,LQ
+4C,Cotyledon leaf,CTL,NEG,Cold,189.6,3.792,1.996,1.9,1.5,60,11376,GQ,LQ
+7C,Cotyledon leaf,CTL,NEG,Cold,138.2,2.763,1.408,1.96,1.74,60,8292,GQ,LQ
+6C,Cotyledon leaf,CTL,NEG,Cold,121.8,2.437,1.216,2,1.76,60,7308,GQ,LQ
+1,Cotyledon leaf,CTL,NEG,Warm,103.5,2.069,1.041,1.99,1.52,80,8280,GQ,LQ
+2,Cotyledon leaf,CTL,NEG,Warm,88.8,1.776,0.919,1.93,1.3,80,7104,GQ,LQ
+3,Cotyledon leaf,CTL,NEG,Warm,84.2,1.684,0.798,2.11,1.98,80,6736,LQ,GQ
+4,Cotyledon leaf,CTL,NEG,Warm,132.3,2.647,1.362,1.94,1.55,80,10584,GQ,LQ
+5,Cotyledon leaf,CTL,NEG,Warm,88.7,1.774,0.918,1.93,1.2,80,7096,GQ,LQ
+6,Cotyledon leaf,CTL,NEG,Warm,81.4,1.628,0.836,1.95,1.5,80,6512,GQ,LQ
+7,Cotyledon leaf,CTL,NEG,Warm,70.9,1.417,0.686,2.07,1.77,80,5672,LQ,LQ
+8,Cotyledon leaf,CTL,NEG,Warm,152.5,3.051,1.482,2.06,1.82,80,12200,LQ,LQ
+8C1,Cotyledon leaf,CTL,NEG,Cold,163.1,3.263,1.756,1.86,1.31,60,9786,GQ,LQ
+9C,Cotyledon leaf,CTL,NEG,Cold,192.9,3.858,2.006,1.92,1.5,60,11574,GQ,LQ
+10C,Cotyledon leaf,CTL,NEG,Cold,189.3,3.786,2.072,1.83,0.92,60,11358,GQ,LQ
+11C,Cotyledon leaf,CTL,NEG,Cold,111.6,2.232,1.136,1.96,1.5,60,6696,GQ,LQ
+12C,Cotyledon leaf,CTL,NEG,Cold,90.2,1.803,0.916,1.97,1.41,60,5412,GQ,LQ
+13C,Cotyledon leaf,CTL,NEG,Cold,107.2,2.144,1.092,1.96,1.42,60,6432,GQ,LQ
+14C,Cotyledon leaf,CTL,NEG,Cold,96.2,1.923,0.991,1.94,1.5,60,5772,GQ,LQ
+15C,Cotyledon leaf,CTL,NEG,Cold,97.3,1.946,0.991,1.96,1.18,60,5838,GQ,LQ
+16C,Cotyledon leaf,CTL,NEG,Cold,115.8,2.315,1.173,1.97,1.37,60,6948,GQ,LQ
+17C,Cotyledon leaf,CTL,NEG,Cold,151.6,3.031,1.473,2.06,1.69,60,9096,LQ,LQ
+18C,Cotyledon leaf,CTL,NEG,Cold,122,2.44,1.171,2.08,1.67,60,7320,LQ,LQ
+19C,Cotyledon leaf,CTL,NEG,Cold,62.5,1.251,0.61,2.05,1.83,60,3750,LQ,LQ
+20C,Cotyledon leaf,CTL,NEG,Cold,179.9,3.597,1.777,2.02,1.32,60,10794,LQ,LQ
+21C,Cotyledon leaf,CTL,NEG,Cold,79.9,1.598,0.758,2.11,1.54,60,4794,LQ,LQ
+22C,Cotyledon leaf,CTL,NEG,Cold,102.6,2.053,0.976,2.1,1.77,60,6156,LQ,LQ
+23C,Cotyledon leaf,CTL,NEG,Cold,100.9,2.018,0.988,2.04,1.87,60,6054,LQ,GQ
+24C,Cotyledon leaf,CTL,NEG,Cold,90.3,1.805,0.851,2.12,1.64,60,5418,LQ,LQ
+25C,Cotyledon leaf,CTL,NEG,Cold,83,1.66,0.785,2.11,1.74,60,4980,LQ,LQ
+26C,Cotyledon leaf,CTL,NEG,Cold,111.6,2.232,1.077,2.07,1.64,60,6696,LQ,LQ
+27C,Cotyledon leaf,CTL,NEG,Cold,209.4,4.188,2.019,2.07,1.86,60,12564,LQ,GQ
+28C,Cotyledon leaf,CTL,NEG,Cold,140.4,2.807,1.316,2.13,1.91,60,8424,LQ,GQ
+29C,Cotyledon leaf,CTL,NEG,Cold,252.9,5.059,2.441,2.07,1.81,60,15174,LQ,LQ
+30C,Cotyledon leaf,CTL,NEG,Cold,112.4,2.249,1.05,2.14,1.74,60,6744,LQ,LQ
+31C,Cotyledon leaf,CTL,NEG,Cold,90.5,1.81,0.879,2.06,1.87,60,5430,LQ,GQ
+SA2,Cotyledon leaf,CTL,PST,Warm,191.3,3.827,1.934,1.98,1.39,80,15304,GQ,LQ
+1,Cotyledon leaf,CTL,PST,Warm,83.6,1.672,0.833,2.01,1.27,80,6688,LQ,LQ
+2,Cotyledon leaf,CTL,PST,Warm,77.8,1.556,0.802,1.94,0.92,80,6224,GQ,LQ
+3,Cotyledon leaf,CTL,PST,Warm,83.9,1.678,0.87,1.93,0.97,80,6712,GQ,LQ
+4,Cotyledon leaf,CTL,PST,Warm,156.6,3.132,1.715,1.83,0.99,80,12528,GQ,LQ
+5,Cotyledon leaf,CTL,PST,Warm,82.6,1.653,0.864,1.91,0.96,80,6608,GQ,LQ
+6,Cotyledon leaf,CTL,PST,Warm,172.3,3.446,1.983,1.74,0.72,80,13784,LQ,LQ
+7,Cotyledon leaf,CTL,PST,Warm,132.2,2.643,1.464,1.81,0.98,80,10576,GQ,LQ
+8,Cotyledon leaf,CTL,PST,Warm,126.1,2.521,1.344,1.88,0.81,80,10088,GQ,LQ
+9,Cotyledon leaf,CTL,PST,Warm,135.4,2.708,1.534,1.77,0.69,80,10832,LQ,LQ
+10,Cotyledon leaf,CTL,PST,Warm,77.4,1.547,0.811,1.91,0.93,80,6192,GQ,LQ
+11,Cotyledon leaf,CTL,PST,Warm,109.8,2.196,1.178,1.86,0.97,80,8784,GQ,LQ
+12,Cotyledon leaf,CTL,PST,Warm,107.5,2.15,1.177,1.83,0.93,80,8600,GQ,LQ
+13,Cotyledon leaf,CTL,PST,Warm,149,2.98,1.688,1.77,1.06,80,11920,LQ,LQ
+14,Cotyledon leaf,CTL,PST,Warm,84.1,1.681,0.844,1.99,1.28,80,6728,GQ,LQ
+15,Cotyledon leaf,CTL,PST,Warm,62.4,1.248,0.622,2.01,1.39,80,4992,LQ,LQ
+16,Cotyledon leaf,CTL,PST,Warm,97.2,1.944,0.949,2.05,1.2,80,7776,LQ,LQ
+17,Cotyledon leaf,CTL,PST,Warm,90.1,1.802,0.869,2.07,1.18,80,7208,LQ,LQ
+18,Cotyledon leaf,CTL,PST,Warm,110.4,2.208,1.132,1.95,1.18,80,8832,GQ,LQ
+19,Cotyledon leaf,CTL,PST,Warm,114,2.279,1.145,1.99,1.18,80,9120,GQ,LQ
+20,Cotyledon leaf,CTL,PST,Warm,81.1,1.623,0.77,2.11,1.29,80,6488,LQ,LQ
+21,Cotyledon leaf,CTL,PST,Warm,149.8,2.996,1.543,1.94,1.18,80,11984,GQ,LQ
+22,Cotyledon leaf,CTL,PST,Warm,77,1.541,0.724,2.13,1.19,80,6160,LQ,LQ
+23,Cotyledon leaf,CTL,PST,Warm,76.8,1.537,0.718,2.14,1.3,80,6144,LQ,LQ
+24,Cotyledon leaf,CTL,PST,Warm,76.5,1.53,0.72,2.13,1.33,80,6120,LQ,LQ
+25,Cotyledon leaf,CTL,PST,Warm,59.1,1.183,0.556,2.13,1.33,80,4728,LQ,LQ
+26,Cotyledon leaf,CTL,PST,Warm,80.3,1.606,0.763,2.11,1.38,80,6424,LQ,LQ
+27,Cotyledon leaf,CTL,PST,Warm,64.7,1.293,0.611,2.12,1.57,80,5176,LQ,LQ
+28,Cotyledon leaf,CTL,PST,Warm,69.1,1.383,0.662,2.09,1.53,80,5528,LQ,LQ
+29,Cotyledon leaf,CTL,PST,Warm,51.8,1.037,0.489,2.12,1.66,80,4144,LQ,LQ
+30,Cotyledon leaf,CTL,PST,Warm,113.1,2.262,1.126,2.01,1.63,80,9048,LQ,LQ
+36,Mature tree young foliage leaf,MTYFL,NEG,Warm,248.3,4.965,2.698,1.84,0.64,100,24830,GQ,LQ
+43,Mature tree young foliage leaf,MTYFL,NEG,Warm,16.6,0.331,0.187,1.77,0.39,100,1660,LQ,LQ
+44,Mature tree young foliage leaf,MTYFL,NEG,Warm,10.6,0.212,0.112,1.89,0.45,100,1060,GQ,LQ
+31,Mature tree young foliage leaf,MTYFL,NEG,Warm,15.8,0.316,0.196,1.61,0.53,100,1580,LQ,LQ
+42,Mature tree young foliage leaf,MTYFL,NEG,Warm,9,0.18,0.078,2.32,0.47,100,900,LQ,LQ
+46,Mature tree young foliage leaf,MTYFL,NEG,Warm,10,0.2,0.087,2.31,0.6,100,1000,LQ,LQ
+47,Mature tree young foliage leaf,MTYFL,NEG,Warm,51.4,1.029,0.687,1.5,0.85,100,5140,LQ,LQ
+27,Mature tree young foliage leaf,MTYFL,NEG,Warm,53.6,1.072,0.711,1.51,0.63,100,5360,LQ,LQ
+32,Mature tree young foliage leaf,MTYFL,NEG,Warm,93.5,1.869,1.483,1.26,0.59,100,9350,LQ,LQ
+37,Mature tree young foliage leaf,MTYFL,NEG,Warm,149.4,2.988,1.917,1.56,1,100,14940,LQ,LQ
+41,Mature tree young foliage leaf,MTYFL,NEG,Warm,77.6,1.551,1.063,1.46,0.69,100,7760,LQ,LQ
+40,Mature tree young foliage leaf,MTYFL,NEG,Warm,77.3,1.547,0.992,1.56,0.95,100,7730,LQ,LQ
+26,Mature tree young foliage leaf,MTYFL,NEG,Warm,117.7,2.355,1.24,2.02,0.53,100,11770,LQ,LQ
+34,Mature tree young foliage leaf,MTYFL,NEG,Warm,11.3,0.226,0.106,2.13,0.42,100,1130,LQ,LQ
+39,Mature tree young foliage leaf,MTYFL,NEG,Warm,88.7,1.774,1.051,1.69,0.98,100,8870,LQ,LQ
+30,Mature tree young foliage leaf,MTYFL,NEG,Warm,20.6,0.411,0.181,2.27,0.74,100,2060,LQ,LQ
+48,Mature tree young foliage leaf,MTYFL,NEG,Warm,7.5,0.15,0.075,2.3,0.44,100,750,LQ,LQ
+28,Mature tree young foliage leaf,MTYFL,NEG,Warm,10.5,0.21,0.095,2.21,0.42,100,1050,LQ,LQ
+38,Mature tree young foliage leaf,MTYFL,NEG,Warm,12.4,0.247,0.112,2.21,0.62,100,1240,LQ,LQ
+29,Mature tree young foliage leaf,MTYFL,NEG,Warm,14.7,0.294,0.135,2.17,0.52,100,1470,LQ,LQ
+25,Mature tree young foliage leaf,MTYFL,NEG,Warm,68.5,1.37,0.941,1.46,0.69,100,6850,LQ,LQ
+45,Mature tree young foliage leaf,MTYFL,NEG,Warm,188.3,3.765,3.059,1.23,0.64,100,18830,LQ,LQ
+35,Mature tree young foliage leaf,MTYFL,NEG,Warm,232.2,4.644,2.731,1.7,0.54,100,23220,LQ,LQ
+33,Mature tree young foliage leaf,MTYFL,NEG,Warm,9,0.181,0.078,2.31,0.35,100,900,LQ,LQ
+1K,Mature tree young foliage leaf,MTYFL,NEG,Warm,100.5,0.869,0.483,1.74,0.6,100,10050,LQ,LQ
+2K,Mature tree young foliage leaf,MTYFL,NEG,Warm,139.4,1.988,0.917,2.17,0.99,100,13940,LQ,LQ
+3K,Mature tree young foliage leaf,MTYFL,NEG,Warm,87.7,2.551,2.063,1.24,0.79,100,8770,LQ,LQ
+4K,Mature tree young foliage leaf,MTYFL,NEG,Warm,87.3,2.547,1.992,1.28,0.87,100,8730,LQ,LQ
+5K,Mature tree young foliage leaf,MTYFL,NEG,Warm,107.7,1.355,0.724,1.87,0.71,100,10770,GQ,LQ
+6K,Mature tree young foliage leaf,MTYFL,NEG,Warm,10.3,0.326,0.155,2.1,0.76,100,1030,LQ,LQ
+7K,Mature tree young foliage leaf,MTYFL,NEG,Warm,98.7,0.774,0.451,1.72,0.49,100,9870,LQ,LQ
+8K,Mature tree young foliage leaf,MTYFL,NEG,Warm,19.5,0.459,0.1989,2.31,0.78,100,1950,LQ,LQ
+9K,Mature tree young foliage leaf,MTYFL,NEG,Warm,7.9,0.153,0.0751,2.04,0.33,100,790,LQ,LQ
+10K,Mature tree young foliage leaf,MTYFL,NEG,Warm,11.5,0.209,0.0989,2.11,0.47,100,1150,LQ,LQ
+73D1,Mature tree young foliage leaf,MTYFL,NEG,Warm,13.4,0.3989,0.201,2.04,0.61,100,1340,LQ,LQ
+73D2,Mature tree young foliage leaf,MTYFL,NEG,Warm,15.7,6.294,3.135,2.01,0.58,100,1570,LQ,LQ
+73D3,Mature tree young foliage leaf,MTYFL,NEG,Warm,58.7,7.37,4.941,1.49,0.79,100,5870,LQ,LQ
+73D4,Mature tree young foliage leaf,MTYFL,NEG,Warm,187.3,5.765,5.059,1.14,0.54,100,18730,LQ,LQ
+73D5,Mature tree young foliage leaf,MTYFL,NEG,Warm,230.3,2.644,1.731,1.53,0.74,100,23030,LQ,LQ
+73D6,Mature tree young foliage leaf,MTYFL,NEG,Warm,10.11,0.281,0.178,1.58,0.45,100,1011,LQ,LQ
+73D7,Mature tree young foliage leaf,MTYFL,NEG,Warm,15.7,3.294,2.135,1.54,0.57,100,1570,LQ,LQ
+73D8,Mature tree young foliage leaf,MTYFL,NEG,Warm,78.3,1.3798,0.991,1.39,0.89,100,7830,LQ,LQ
+73D9,Mature tree young foliage leaf,MTYFL,NEG,Warm,177.3,6.765,6.059,1.12,0.74,100,17730,LQ,LQ
+73D10,Mature tree young foliage leaf,MTYFL,NEG,Warm,207.8,7.644,3.731,2.05,0.53,100,20780,LQ,LQ
+73D11,Mature tree young foliage leaf,MTYFL,NEG,Warm,13.4,1.181,1.008,1.17,0.38,100,1340,LQ,LQ
+73D12,Mature tree young foliage leaf,MTYFL,NEG,Warm,270.5,0.45,3.67,2.81,0.43,100,27050,LQ,LQ
+73D13,Mature tree young foliage leaf,MTYFL,NEG,Warm,15.6,7.91,4.81,1.53,0.56,100,1560,LQ,LQ
+73D14,Mature tree young foliage leaf,MTYFL,NEG,Warm,123.1,1.78,3.765,1.14,0.71,100,12310,LQ,LQ
+73D15,Mature tree young foliage leaf,MTYFL,NEG,Warm,10.6,2.255,4.941,2.67,0.8,100,1060,LQ,LQ
+73D16,Mature tree young foliage leaf,MTYFL,NEG,Warm,56.7,0.236,5.059,1.38,0.91,100,5670,LQ,LQ
+73D17,Mature tree young foliage leaf,MTYFL,NEG,Warm,143.9,1.774,1.731,1.27,0.73,100,14390,LQ,LQ
+73D18,Mature tree young foliage leaf,MTYFL,NEG,Warm,267.3,0.411,0.178,1.67,0.73,100,26730,LQ,LQ
+73D19,Mature tree young foliage leaf,MTYFL,NEG,Warm,11.5,0.15,2.135,1.76,0.46,100,1150,LQ,LQ
+73D20,Mature tree young foliage leaf,MTYFL,NEG,Warm,14.9,0.21,0.991,1.73,0.81,100,1490,LQ,LQ
+73D21,Mature tree young foliage leaf,MTYFL,NEG,Warm,79.1,0.247,6.059,2.36,0.33,100,7910,LQ,LQ
+73D22,Mature tree young foliage leaf,MTYFL,NEG,Warm,180.7,0.294,3.731,2.08,0.43,100,18070,LQ,LQ
+73D23,Mature tree young foliage leaf,MTYFL,NEG,Warm,200.8,1.37,0.0751,1.63,0.62,100,20080,LQ,LQ
+73D24,Mature tree young foliage leaf,MTYFL,NEG,Warm,13.9,3.765,0.0989,1.87,0.53,100,1390,GQ,LQ
+1,Seedling  young foliage leaf,SYFL,NEG,Warm,23.4,0.467,0.245,1.91,1.28,60,1404,GQ,LQ
+2,Seedling  young foliage leaf,SYFL,NEG,Warm,18.4,0.369,0.188,1.96,1.45,60,1104,GQ,LQ
+3,Seedling  young foliage leaf,SYFL,NEG,Warm,18.3,0.367,0.289,1.27,1.03,60,1098,LQ,LQ
+4,Seedling  young foliage leaf,SYFL,NEG,Warm,15.4,0.308,0.158,1.95,1.51,60,924,GQ,LQ
+5,Seedling  young foliage leaf,SYFL,NEG,Warm,18.2,0.364,0.233,1.56,0.57,60,1092,LQ,LQ
+6,Seedling  young foliage leaf,SYFL,NEG,Warm,11.9,0.237,0.216,1.1,0.64,60,714,LQ,LQ
+7,Seedling  young foliage leaf,SYFL,NEG,Warm,14.3,0.286,0.178,1.61,1.91,60,858,LQ,GQ
+8,Seedling  young foliage leaf,SYFL,NEG,Warm,18.9,0.379,0.222,1.71,1.98,60,1134,LQ,GQ
+9,Seedling  young foliage leaf,SYFL,NEG,Warm,26.6,0.532,0.289,1.84,1.9,60,1596,GQ,GQ
+10,Seedling  young foliage leaf,SYFL,NEG,Warm,13.7,0.274,0.18,1.52,0.79,60,822,LQ,LQ
+11,Seedling  young foliage leaf,SYFL,NEG,Warm,3.9,0.077,0.043,1.81,0.95,60,234,GQ,LQ
+12,Seedling  young foliage leaf,SYFL,NEG,Warm,3.9,0.079,0.041,1.91,1.01,60,234,GQ,LQ
+13,Seedling  young foliage leaf,SYFL,NEG,Warm,10.2,0.203,0.107,1.89,0.65,60,612,GQ,LQ
+14,Seedling  young foliage leaf,SYFL,NEG,Warm,2.9,0.057,0.034,1.71,0.96,60,174,LQ,LQ
+15,Seedling  young foliage leaf,SYFL,NEG,Warm,20.2,0.405,0.242,1.67,0.63,60,1212,LQ,LQ
+16,Seedling  young foliage leaf,SYFL,NEG,Warm,24.4,0.489,0.243,2.01,1.44,60,1464,LQ,LQ
+17,Seedling  young foliage leaf,SYFL,NEG,Warm,31,0.621,0.306,2.03,1.53,60,1860,LQ,LQ
+18,Seedling  young foliage leaf,SYFL,NEG,Warm,18.4,0.369,0.183,2.02,1.59,60,1104,LQ,LQ
+19,Seedling  young foliage leaf,SYFL,NEG,Warm,19.5,0.389,0.196,1.99,2.41,60,1170,GQ,LQ
+20,Seedling  young foliage leaf,SYFL,NEG,Warm,16.1,0.322,0.16,2.01,1.88,60,966,LQ,GQ
+21,Seedling  young foliage leaf,SYFL,NEG,Warm,8,0.161,0.078,2.06,0.91,60,480,LQ,LQ
+22,Seedling  young foliage leaf,SYFL,NEG,Warm,44,0.881,0.518,1.7,1.22,60,2640,LQ,LQ
+23,Seedling  young foliage leaf,SYFL,NEG,Warm,16.4,0.329,0.151,2.17,0.85,60,984,LQ,LQ
+24,Seedling  young foliage leaf,SYFL,NEG,Warm,11.5,0.229,0.113,2.03,1.47,60,690,LQ,LQ
+25,Seedling  young foliage leaf,SYFL,NEG,Warm,98.4,1.967,1.107,1.78,0.8,60,5904,LQ,LQ
+26,Seedling  young foliage leaf,SYFL,NEG,Warm,14.2,0.285,0.12,2.38,1.21,60,852,LQ,LQ
+27,Seedling  young foliage leaf,SYFL,NEG,Warm,26.4,0.528,0.276,1.91,0.89,60,1584,GQ,LQ
+28,Seedling  young foliage leaf,SYFL,NEG,Warm,23.6,0.472,0.25,1.89,1.54,60,1416,GQ,LQ
+29,Seedling  young foliage leaf,SYFL,NEG,Warm,9,0.18,0.099,1.82,0.62,60,540,GQ,LQ
+30,Seedling  young foliage leaf,SYFL,NEG,Warm,6,0.121,0.063,1.92,1.33,60,360,GQ,LQ
+31,Seedling  young foliage leaf,SYFL,NEG,Warm,7.3,0.147,0.079,1.85,0.63,60,438,GQ,LQ
+32,Seedling  young foliage leaf,SYFL,NEG,Warm,12.1,0.241,0.119,2.03,1.16,60,726,LQ,LQ
+33,Seedling  young foliage leaf,SYFL,NEG,Warm,37.3,0.746,0.372,2.01,1.46,60,2238,LQ,LQ
+34,Seedling  young foliage leaf,SYFL,NEG,Warm,13.8,0.275,0.15,1.83,0.74,60,828,GQ,LQ
+35,Seedling  young foliage leaf,SYFL,NEG,Warm,13.5,0.271,0.13,2.09,1.07,60,810,LQ,LQ
+36,Seedling  young foliage leaf,SYFL,NEG,Warm,26,0.519,0.273,1.9,1.42,60,1560,GQ,LQ
+37,Seedling  young foliage leaf,SYFL,NEG,Warm,18.4,0.368,0.195,1.88,1.08,60,1104,GQ,LQ
+38,Seedling  young foliage leaf,SYFL,NEG,Warm,11.9,0.237,0.131,1.81,0.98,60,714,GQ,LQ
+39,Seedling  young foliage leaf,SYFL,NEG,Warm,33.8,0.676,0.372,1.82,0.63,60,2028,GQ,LQ
+39,Seedling  young foliage leaf,SYFL,NEG,Warm,18.4,0.472,0.063,1.82,1.54,60,1104,GQ,LQ
+39,Seedling  young foliage leaf,SYFL,NEG,Warm,18.3,0.18,0.079,1.92,0.62,60,1098,GQ,LQ
+39,Seedling  young foliage leaf,SYFL,NEG,Warm,15.4,0.121,0.119,1.85,1.33,60,924,GQ,LQ
+39,Seedling  young foliage leaf,SYFL,NEG,Warm,18.2,0.147,0.372,2.03,0.63,60,1092,LQ,LQ
+40,Seedling  young foliage leaf,SYFL,NEG,Warm,29.5,0.59,0.313,1.88,0.76,60,1770,GQ,LQ
+41,Seedling  young foliage leaf,SYFL,NEG,Warm,26.1,0.522,0.265,1.97,1.63,60,1566,GQ,LQ
+42,Seedling  young foliage leaf,SYFL,NEG,Warm,6.4,0.127,0.056,2.29,0.81,60,384,LQ,LQ
+43,Seedling  young foliage leaf,SYFL,NEG,Warm,50.2,1.004,0.54,1.86,1.3,60,3012,GQ,LQ
+44,Seedling  young foliage leaf,SYFL,NEG,Warm,67.5,1.351,0.729,1.85,1.94,60,4050,GQ,GQ
+45,Seedling  young foliage leaf,SYFL,NEG,Warm,4.1,0.083,0.038,2.2,0.66,60,246,LQ,LQ
+46,Seedling  young foliage leaf,SYFL,NEG,Warm,2.1,0.043,0.022,1.91,0.56,60,126,GQ,LQ
+47,Seedling  young foliage leaf,SYFL,NEG,Warm,6.9,0.139,0.07,1.97,0.73,60,414,GQ,LQ
+48,Seedling  young foliage leaf,SYFL,NEG,Warm,4.7,0.095,0.049,1.94,0.9,60,282,GQ,LQ
+8C,Seedling  young foliage leaf,SYFL,NEG,Warm,52,1.041,0.509,2.04,1.56,60,3120,LQ,LQ
+1S,Seed,SDS,NEG,Warm,235.9,6.666,4.736,1.41,0.52,99,23354.1,LQ,LQ
+2S,Seed,SDS,NEG,Warm,51,1.021,0.6,1.7,0.59,99,5049,LQ,LQ
+3S,Seed,SDS,NEG,Warm,126.8,2.536,2.196,1.15,0.28,99,12553.2,LQ,LQ
+4S,Seed,SDS,NEG,Warm,80.2,1.605,1.029,1.56,0.52,99,7939.8,LQ,LQ
+5S,Seed,SDS,NEG,Warm,266.9,5.338,5.494,0.97,0.39,99,26423.1,LQ,LQ
+6S,Seed,SDS,NEG,Warm,73.1,1.461,1.395,1.05,0.22,99,7236.9,LQ,LQ
+7S,Seed,SDS,NEG,Warm,120.7,2.413,1.754,1.38,0.56,99,11949.3,LQ,LQ
+8S,Seed,SDS,NEG,Warm,62,1.239,0.681,1.82,0.67,99,6138,GQ,LQ
+9S,Seed,SDS,NEG,Warm,83.8,1.675,1.265,1.32,0.34,99,8296.2,LQ,LQ
+10S,Seed,SDS,NEG,Warm,94.3,1.886,1.711,1.1,0.26,99,9335.7,LQ,LQ
+11S,Seed,SDS,NEG,Warm,117.8,2.355,1.577,1.49,0.46,99,11662.2,LQ,LQ
+12S,Seed,SDS,NEG,Warm,184.8,3.696,3.476,1.06,0.29,99,18295.2,LQ,LQ
+13S,Seed,SDS,NEG,Warm,90.3,1.806,1.214,1.49,0.6,99,8939.7,LQ,LQ
+14S,Seed,SDS,NEG,Warm,120.4,2.407,2.101,1.15,0.28,99,11919.6,LQ,LQ
+15S,Seed,SDS,NEG,Warm,207.6,4.152,3.589,1.16,0.33,99,20552.4,LQ,LQ
+16S,Seed,SDS,NEG,Warm,151.3,18.59,22.807,0.82,0.37,99,14978.7,LQ,LQ
+17S,Seed,SDS,NEG,Warm,123.6,2.472,1.583,1.56,0.56,99,12236.4,LQ,LQ
+18S,Seed,SDS,NEG,Warm,52.4,1.048,0.611,1.71,0.64,99,5187.6,LQ,LQ
+19S,Seed,SDS,NEG,Warm,94.1,1.883,1.029,1.83,0.85,99,9315.9,GQ,LQ
+20S,Seed,SDS,NEG,Warm,81.9,1.639,1.02,1.61,0.54,99,8108.1,LQ,LQ
+21S,Seed,SDS,NEG,Warm,80.5,1.61,1.002,1.61,0.53,99,7969.5,LQ,LQ
+22S,Seed,SDS,NEG,Warm,101.9,2.037,1.247,1.63,0.68,99,10088.1,LQ,LQ
+23S,Seed,SDS,NEG,Warm,87.1,1.743,1.061,1.64,0.61,99,8622.9,LQ,LQ
+24S,Seed,SDS,NEG,Warm,104.4,2.088,1.349,1.55,0.75,99,10335.6,LQ,LQ
+25S,Seed,SDS,NEG,Warm,96,1.919,1.111,1.73,0.72,99,9504,LQ,LQ
+26S,Seed,SDS,NEG,Warm,69.1,1.382,0.863,1.6,0.66,99,6840.9,LQ,LQ
+27S,Seed,SDS,NEG,Warm,83.2,1.663,0.954,1.74,0.72,99,8236.8,LQ,LQ
+28S,Seed,SDS,NEG,Warm,199.35,7.133,5.615,1.27,0.49,99,19735.65,LQ,LQ
+29S,Seed,SDS,NEG,Warm,156.6,3.132,2.189,1.43,0.4,99,15503.4,LQ,LQ
+30S,Seed,SDS,NEG,Warm,116.5,2.329,1.678,1.39,0.38,99,11533.5,LQ,LQ
+31S,Seed,SDS,NEG,Warm,103.9,2.078,1.36,1.53,0.5,99,10286.1,LQ,LQ
+32S,Seed,SDS,NEG,Warm,138.4,2.767,1.802,1.54,0.65,99,13701.6,LQ,LQ
+33S,Seed,SDS,NEG,Warm,154.5,3.091,1.832,1.69,0.73,99,15295.5,LQ,LQ
+34S,Seed,SDS,NEG,Warm,130,2.6,1.572,1.65,0.69,99,12870,LQ,LQ
+35S,Seed,SDS,NEG,Warm,152.2,3.044,2.031,1.5,0.55,99,15067.8,LQ,LQ
+36S,Seed,SDS,NEG,Warm,70.6,1.412,0.96,1.47,0.58,99,6989.4,LQ,LQ
+37S,Seed,SDS,NEG,Warm,89.5,1.789,1.198,1.49,0.6,99,8860.5,LQ,LQ
+38S,Seed,SDS,NEG,Warm,150.4,3.007,1.985,1.52,0.64,99,14889.6,LQ,LQ
+39S,Seed,SDS,NEG,Warm,76.8,1.536,0.866,1.77,0.94,99,7603.2,LQ,LQ
+40S,Seed,SDS,NEG,Warm,131.6,1.97,1.56,1.56,0.91,99,11048.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,11.6,1.32,1.33,1.78,0.43,99,1148.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,211.6,1.89,1.57,1.58,0.87,99,20948.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,36.6,2.231,1.58,1.76,0.86,99,3623.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,55.8,1.117,0.624,1.79,0.81,99,5524.2,LQ,LQ
+40S,Seed,SDS,NEG,Warm,54.7,1.095,0.61,1.79,0.75,99,5415.3,LQ,LQ
+40S,Seed,SDS,NEG,Warm,69.6,1.393,1.224,1.14,0.24,99,6890.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,94.6,1.892,1.215,1.56,0.63,99,9365.4,LQ,LQ
+40S,Seed,SDS,NEG,Warm,158.1,3.161,1.92,1.65,0.69,99,15651.9,LQ,LQ
+40S,Seed,SDS,NEG,Warm,116.7,2.334,1.403,1.66,0.76,99,11553.3,LQ,LQ
+40S,Seed,SDS,NEG,Warm,59.1,1.182,0.67,1.76,0.9,99,5850.9,LQ,LQ
+40S,Seed,SDS,NEG,Warm,88.6,1.772,1.076,1.65,0.9,99,8771.4,LQ,LQ
+A,Cotyledon leaf,CTL,NEG,Cold,171,2.732,1.408,1.94,1.6,100,17100,GQ,LQ
+B,Cotyledon leaf,CTL,NEG,Cold,141.5,2.286,1.216,1.88,1.31,100,14150,GQ,LQ
+C,Cotyledon leaf,CTL,NEG,Cold,101.3,3.319,1.756,1.89,1.25,100,10130,GQ,LQ
+D,Cotyledon leaf,CTL,NEG,Cold,136.4,3.831,2.006,1.91,1.3,100,13640,GQ,LQ
+E,Cotyledon leaf,CTL,NEG,Cold,11.2,4.289,2.072,2.07,1.59,100,1120,LQ,LQ
+F,Cotyledon leaf,CTL,NEG,Cold,12,2.283,1.136,2.01,7.35,100,1200,LQ,LQ
+G,Cotyledon leaf,CTL,NEG,Cold,112.1,1.63,0.916,1.78,0.99,100,11210,LQ,LQ
+H,Cotyledon leaf,CTL,NEG,Cold,113.2,2.075,1.092,1.9,1.18,100,11320,GQ,LQ
+I,Cotyledon leaf,CTL,NEG,Cold,27.4,2.418,0.991,2.44,0.33,100,2740,LQ,LQ
+J,Cotyledon leaf,CTL,NEG,Cold,192,1.873,0.991,1.89,1.52,100,19200,GQ,LQ
+K,Cotyledon leaf,CTL,NEG,Cold,160.8,2.264,1.173,1.93,1.4,100,16080,GQ,LQ
+L,Cotyledon leaf,CTL,NEG,Cold,245.6,2.872,1.473,1.95,1.1,100,24560,GQ,LQ
+M,Cotyledon leaf,CTL,NEG,Cold,142.7,2.26,1.171,1.93,1.4,100,14270,GQ,LQ
+N,Cotyledon leaf,CTL,NEG,Cold,464.2,1.013,0.61,1.66,0.98,100,46420,LQ,LQ
+O,Cotyledon leaf,CTL,NEG,Cold,486.8,2.808,1.777,1.58,0.67,100,48680,LQ,LQ
+P,Cotyledon leaf,CTL,NEG,Cold,150.3,1.463,0.758,1.93,1.57,100,15030,GQ,LQ
+Q,Cotyledon leaf,CTL,NEG,Cold,172.4,1.923,0.976,1.97,1.43,100,17240,GQ,LQ
+R,Cotyledon leaf,CTL,NEG,Cold,251.2,1.867,0.988,1.89,1.21,100,25120,GQ,LQ
+S,Cotyledon leaf,CTL,NEG,Cold,167.9,1.413,0.851,1.66,1.15,100,16790,LQ,LQ
+1,Cotyledon leaf,CTL,PST,Cold,189.5,5.827,2.934,1.99,1.46,50,9475,GQ,LQ
+2,Cotyledon leaf,CTL,PST,Cold,80,1.672,0.833,2.01,1.28,50,4000,LQ,LQ
+3,Cotyledon leaf,CTL,PST,Cold,67.8,1.656,0.802,2.06,1.34,50,3390,LQ,LQ
+4,Cotyledon leaf,CTL,PST,Cold,80.9,1.578,0.87,1.81,1.61,50,4045,GQ,LQ
+5,Cotyledon leaf,CTL,PST,Cold,410.7,3.432,1.715,2,1.66,50,20535,GQ,LQ
+6,Cotyledon leaf,CTL,PST,Cold,87.3,1.753,0.864,2.03,1.23,50,4365,LQ,LQ
+7,Cotyledon leaf,CTL,PST,Cold,180.2,3.546,1.983,1.79,1.57,50,9010,LQ,LQ
+8,Cotyledon leaf,CTL,PST,Cold,142.3,2.343,1.464,1.6,0.99,50,7115,LQ,LQ
+9,Cotyledon leaf,CTL,PST,Cold,130.1,2.621,1.344,1.95,0.76,50,6505,GQ,LQ
+10,Cotyledon leaf,CTL,PST,Cold,136.7,2.808,1.534,1.83,1.07,50,6835,GQ,LQ
+11,Cotyledon leaf,CTL,PST,Cold,87.9,1.647,0.811,2.03,1.08,50,4395,LQ,LQ
+12,Cotyledon leaf,CTL,PST,Cold,129.8,2.296,1.178,1.95,0.98,50,6490,GQ,LQ
+13,Cotyledon leaf,CTL,PST,Cold,109.2,2.25,1.177,1.91,0.98,50,5460,GQ,LQ
+14,Cotyledon leaf,CTL,PST,Cold,168.2,2.198,1.688,1.3,1.23,50,8410,LQ,LQ
+15,Cotyledon leaf,CTL,PST,Cold,78.9,1.481,0.844,1.75,1.41,50,3945,LQ,LQ
+16,Cotyledon leaf,CTL,PST,Cold,60.2,1.048,0.622,1.68,1.51,50,3010,LQ,LQ
+17,Cotyledon leaf,CTL,PST,Cold,97.3,1.844,0.949,1.94,1.23,50,4865,GQ,LQ
+18,Cotyledon leaf,CTL,PST,Cold,80.4,1.3802,0.869,1.59,1.28,50,4020,LQ,LQ
+19,Cotyledon leaf,CTL,PST,Cold,111.4,2.308,1.132,2.04,1.18,50,5570,LQ,LQ
+20,Cotyledon leaf,CTL,PST,Cold,143.2,2.379,1.145,2.08,1.24,50,7160,LQ,LQ
+21,Cotyledon leaf,CTL,PST,Cold,87.1,1.7623,0.77,2.29,1.36,50,4355,LQ,LQ
+22,Cotyledon leaf,CTL,PST,Cold,150.9,2.5996,1.543,1.68,1.18,50,7545,LQ,LQ
+23,Cotyledon leaf,CTL,PST,Cold,87,1.341,0.724,1.85,1.2,50,4350,GQ,LQ
+24,Cotyledon leaf,CTL,PST,Cold,78.2,1.637,0.718,2.28,1.36,50,3910,LQ,LQ
+25,Cotyledon leaf,CTL,PST,Cold,60.9,1.353,0.72,1.88,1.34,50,3045,GQ,LQ
+26,Cotyledon leaf,CTL,PST,Cold,57.1,1.283,0.556,2.31,1.37,50,2855,LQ,LQ
+27,Cotyledon leaf,CTL,PST,Cold,79.3,1.506,0.763,1.97,1.46,50,3965,GQ,LQ
+28,Cotyledon leaf,CTL,PST,Cold,65.7,1.193,0.611,1.95,1.58,50,3285,GQ,LQ
+29,Cotyledon leaf,CTL,PST,Cold,70.8,1.283,0.662,1.94,1.57,50,3540,GQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,51.3,1.137,0.489,2.33,1.67,50,2565,LQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,163.2,2.162,1.126,1.92,1.69,50,8160,GQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,70.2,1.637,0.718,2.28,1.34,50,3510,LQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,50.9,1.353,0.72,1.88,1.36,50,2545,GQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,69.2,1.283,0.556,2.31,1.42,50,3460,LQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,77.7,1.506,0.763,1.97,1.43,50,3885,GQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,64.8,1.193,0.611,1.95,1.35,50,3240,GQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,89.2,1.483,0.662,2.24,1.62,50,4460,LQ,LQ
+30,Cotyledon leaf,CTL,PST,Cold,54.3,1.1037,0.489,2.26,1.46,50,2715,LQ,LQ

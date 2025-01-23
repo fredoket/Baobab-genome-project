@@ -45,9 +45,13 @@ df_tbl <- df_dfn |>
   add_p() |>
   modify_header(label ~ "**Variables**") |>
   modify_spanning_header(c("stat_1", "stat_2", "stat_3", "stat_4") ~ "**Tissue Source**") |>
-  bold_labels() |>
-  flextable::save_as_docx(path = "table1.docx")
-  
+  bold_labels()
+
+# Save to word document
+df_tbl |> 
+  as_gt() |> 
+  gt::gtsave(filename = "kk.docx") 
+
 
 df_graph <- df_dna |>
   group_by(abr, category_280) |>
